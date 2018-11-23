@@ -1,0 +1,31 @@
+programa prueba {
+    entero id1, id2 , suma ;
+    entero id2;
+
+    proc prueba () {
+        cadena hola;
+    }
+
+    proc prueba2(entero a) {
+        real b[10];
+        si [ a * 20 > b * 10 ] {
+             a = 20 + (56 /  100) - 222 * 45;
+             b=6;
+             sino
+             mientras [ 12 > abc ]
+             {
+               si [ 1 > 2]
+               {
+                 a =10;
+               };
+             a = 20 + 30 * 40;
+             };
+        repite {
+            ejecutar prueba2;
+        } hasta [ a > 20 ];
+        };
+    }
+
+    limpiar;
+    ejecutar prueba;
+}
